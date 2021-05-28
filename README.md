@@ -8,7 +8,7 @@ Some alarm sounds/ringtones may appear repeated in the ringtone chooser, I think
 - Initial release
 
 ### Disclaimer
-I am not responsible for any damage done to your device by this module, so flash at your of discretion.
+I am not responsible for any damage done to your device by this module, so flash at your own risk.
 
 This module is not associated with the offical games, their associated companies, etc. It's purely a fan creation.
 
